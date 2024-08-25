@@ -1,0 +1,79 @@
+#main1 {
+    margin-left: 300px;
+    height: 180px;
+    width: 180px;
+    background-color: aqua;
+    transition: ease-in-out 2s;
+}
+#main1:hover{
+    transition: ease-in-out 2s;
+    background-color: orange;
+    border-radius: 100px;
+}
+#main2 {
+    float: right;
+    margin-top: -180px;
+    margin-right: 300px;
+    height: 180px;
+    width: 710px;
+    background-color: gold;
+}
+#main3 {
+    float: inline-end;
+    margin-left: 300px;
+    height: 220px;
+    width: 220px;
+    background-color: red;
+}
+#main4 {
+    float: inherit;
+    margin-top: -241px;
+    margin-left: 528px;
+    height: 220px;
+    width: 220px;
+    background-color: green;
+}
+#main5 {
+    float: initial;
+    margin-top: -241px;
+    margin-left: 756px;
+    height: 220px;
+    width: 220px;
+    background-color: blue;
+} 
+#main6 {
+    float: right;
+    margin-top: -220px;
+    margin-right: 300px;
+    height: 220px;
+    width: 220px;
+    background-color: saddlebrown;
+}
+#main7 {
+    float: left;
+    margin-left: 300px;
+    margin-inline-end: 100px;
+    margin-top: 30px;
+    margin-right: 0px;
+    height: 300px;
+    width: 220px;
+    background-color: chartreuse;
+}
+#main8 {
+    float: right;
+    margin-block-end: 100px;
+    margin-top: 30px;
+    margin-right: 300px;
+    height: 300px;
+    width: 670px;
+    background-color: cornflowerblue;
+}
+#main9
+{
+    margin-top: 350px;
+    margin-left: 300px;
+    margin-right: 300px;
+    width: 903px;
+    height: 100px;
+    background-color: brown;
+}

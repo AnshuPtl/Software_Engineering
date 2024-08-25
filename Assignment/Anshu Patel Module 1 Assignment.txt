@@ -1,0 +1,75 @@
+B1: What is software?
+Ans: Software is a collection of computer programs and related data that provide the instructions for telling a computer what to do and how to do it.
+
+B2: Types of software
+Ans: There are three types of software
+	1> System software
+	2> Programming software
+	3> Application software
+
+B3: What is software devlopment methodology?
+Ans: There are six phase in software devlopment methodology
+	1>Requirement Gathering Phase
+	2>Analysis Phase
+	3>Design Phase
+	4>Implementation or Coding Phase
+	5>Testing Phase
+	6>Maintenance Phase
+
+
+Intermediate
+
+I1: What is the difference betweeen Application software and system software?
+Ans: Application software:-> Application software is the general designation of computer programs for performing user tasks.
+			 :-> There are three types of Application software
+		             1> Web Application
+			     2> Desktop Application
+			     3> Mobile Application
+
+     System software:-> provides the basic functions for computer usage and helps to run the computer hardware and system.
+		    :-> There are no any type of System software.
+
+I2: Explain the SDLC each phase process.
+Ans: 
+    1> Requirement Gathering:-> Features
+			      # Although requirements may be documented in written form, they may be incomplete, unambiguous, or even incorrect.
+			      # Requirements will Change!
+			      # Build constant feedback into the project plan
+			      # Early prototyping [e.g., UI] can help clarify the requirements
+			      # Functional and Non-Functional 
+    
+    2> Analysis phase:-> The analysis phase defines the requirements of the system, independent of how these Requirements will be accomplished.
+		       # This phase defines the problem that the customer is trying to solve.
+		       # This phase starts with the requirement document delivered by the requirement phase and maps the requirements into architecture.
+
+    3> Design:-> In this phase the requirement gathered in the SRS (Software Requirement Specification) document is used as an input and software architecture that is used for implementing.
+
+    4> Implementation or coding:-> Implementation / coding start once the devloper gets the design document. The software design is source code all components of the software are implemented in this phase.
+             			 # The implementation phase deals with issues of quality, performance, baselines, libraries, and debugging.
+
+    5> Testing:-> Stated, quality is very important. Many companies have not learned that quality is important and deliver more claimed functionality but at a lower quality level. 
+		# It is much easier to explain to a customer why there is a missing feature than to explain to a customer why the product lacks quality.
+		# A customer satisfied with the quality of a product will remain loyal and wait for new Functionality in the next version.
+		# There are seven types of testing 
+    		 1> Black Box Testing
+		 2> White Box Testing
+		 3> Regression Testing
+		 4> Internal Testing 
+		 5> Unit Testing
+		 6> Application Testing
+		 7> Stress Testing
+
+    6> Maintenance:-> Software maintenance is also one of the phases in the System Development Life Cycle as it applies to software development. The maintenance phase is the phase which comes after deployment of the software into the field.
+                    # The developing organization or team will have some mechanism to document and track Defects and deficiencies. 
+		    # Configuration and version management
+		    # Reengineering (Redesigning and Refactoring)
+		    # Updating all analysis, design and user documentation.
+     		    # There are three types of maintenance
+		      1> Corrective maintenance: Identifying and repairing defects.
+		      2> Adaptive maintenance: Adapting the existing solution to the new platforms.
+     		      3> Perfective Maintenance: Implementing the new requirements.
+
+I3: Create the DFD, Flowchart of login Process of Facebook.com
+Ans:
+
+
